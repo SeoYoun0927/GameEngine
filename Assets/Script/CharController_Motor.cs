@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class CharController_Motor : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public float speed = 10.0f;
     public float sensitivity = 60.0f;
